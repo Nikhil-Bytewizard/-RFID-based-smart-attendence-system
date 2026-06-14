@@ -46,8 +46,8 @@
 
 - 🤝 I’m looking for help with **Real-time Operating System (RTOS) Integration**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VeerapuNikhil](https://github.com/VeerapuNikhil)
-
+- 👨‍💻 All of my projects are available at [(https://github.com/Nikhil-Bytewizard)]
+  
 - 📝 I regularly write articles on [https://medium.com/@nikhilveerapu123](https://medium.com/@nikhilveerapu123)
 
 - 📫 How to reach me **nikhilveerapu123@gmail.com**
